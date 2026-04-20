@@ -11,7 +11,7 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		CF2460752F5146A40051B714 /* Exceptions for "JRNL" folder in "JRNL" target */ = {
+		CF79FF882F71595C0068685A /* Exceptions for "JRNL" folder in "JRNL" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
@@ -24,7 +24,7 @@
 		CF2460652F5146A30051B714 /* JRNL */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				CF2460752F5146A40051B714 /* Exceptions for "JRNL" folder in "JRNL" target */,
+				CF79FF882F71595C0068685A /* Exceptions for "JRNL" folder in "JRNL" target */,
 			);
 			path = JRNL;
 			sourceTree = "<group>";
