@@ -20,8 +20,10 @@ struct ContentView: View {
                 }
             }.navigationTitle("Number List").navigationBarTitleDisplayMode(.inline)
         }.toolbar{
-            Button("Add") {
-                addItemToRow()
+            ToolbarItem(placement: .topBarTrailing) {
+                Button("Add") {
+                    addItemToRow()
+                }
             }
         }
     }
